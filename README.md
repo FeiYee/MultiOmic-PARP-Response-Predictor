@@ -86,7 +86,7 @@ Preprocessed datasets (~3.41 GB):
 Place all `.csv` files into:
 
 ```
-data/
+dataset/
 ```
 
 ---
