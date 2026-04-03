@@ -108,8 +108,7 @@ PARP-Predictor/
 ├── results/                 # Output directory
 │   ├── figures/             # Generated figures (300 DPI)
 │   └── models/              # Trained model files
-├── data/                    # Dataset directory (download separately)
-├── DATASET.md               # Dataset download instructions
+├── dataset/                    # Dataset directory (download separately)
 ├── requirements.txt         # Python dependencies
 ├── README.md                # This file
 └── LICENSE                  # License
