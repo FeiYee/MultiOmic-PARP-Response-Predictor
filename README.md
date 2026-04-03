@@ -1,9 +1,5 @@
 # Multi-Omics PARP Inhibitor Response Predictor
 
-[!\[Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[!\[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-\[!\[DOI](https://img.shields.io/badge/DOI-Pending-blue.svg)]()
-
 > A robust computational oncology tool for predicting PARP inhibitor (Olaparib) response from multi-omic data. Fully reproducible, no information leakage, and built for translational cancer research.
 
 \---
